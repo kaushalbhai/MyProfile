@@ -103,7 +103,7 @@ h1,h2,h3{
 .header{
     position: relative;
     height: 95vh;
-    background: url('../img/pexels-ben-cheung-441379.jpg');
+    background: url('../img/backgif.gif');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -278,7 +278,7 @@ h1,h2,h3{
 
 .about-wrapper{
      
-    text-align: center;
+    /* text-align: center; */
     margin-top: 2rem ;
 }
 
@@ -581,6 +581,7 @@ h1,h2,h3{
         height: auto;
     }
 }
+
 
 @media(min-width: 769px) and (max-width: 1200px){
     html{
